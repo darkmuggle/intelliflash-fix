@@ -1,0 +1,6 @@
+[submodule "intelliflash-csi-file-driver"]
+	path = intelliflash-csi-file-driver
+	url = https://github.com/DDNStorage/intelliflash-csi-file-driver
+[submodule "intelliflash-csi-block-driver"]
+	path = intelliflash-csi-block-driver
+	url = https://github.com/DDNStorage/intelliflash-csi-block-driver
